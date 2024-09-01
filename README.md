@@ -1,5 +1,7 @@
 # Totality Frontend Challenge
   ## UrbanVilla
+  This repository contains the solution for the Totality Frontend Challenge, which aims to develop a property rental platform with essential features using React. The challenge includes 
+  implementing property listings, booking management, checkout process, and ensuring responsive design.
 
 ![image](https://github.com/user-attachments/assets/60306f1a-4c79-4e01-877e-dffde4421949)
 ![image](https://github.com/user-attachments/assets/211f6c47-187e-4f12-b1e9-8d13b3c37b95)
@@ -7,8 +9,6 @@
 
 
 
-
-This repository contains the solution for the Totality Frontend Challenge, which aims to develop a property rental platform with essential features using React. The challenge includes implementing property listings, booking management, checkout process, and ensuring responsive design.
 
 ## UrbanVilla
 
