@@ -1,13 +1,15 @@
 # Totality Frontend Challenge
-![homelyhub](![image](https://github.com/user-attachments/assets/57957474-9673-4db3-bda6-12d250a38a3c)
+  ## UrbanValli
 )
 ![image](https://github.com/user-attachments/assets/60306f1a-4c79-4e01-877e-dffde4421949)
 
 
 This repository contains the solution for the Totality Frontend Challenge, which aims to develop a property rental platform with essential features using React. The challenge includes implementing property listings, booking management, checkout process, and ensuring responsive design.
 
-## Property Management System Design
+## UrbanValli
 ![ManagementSystem](ManagementSystem.png "ManagementSystem")
+![image](https://github.com/user-attachments/assets/cb0f3b5f-9be0-4f55-9e18-c3ab1b25f243)
+
 
 
 ## Tech Stack
