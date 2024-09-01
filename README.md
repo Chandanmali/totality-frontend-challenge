@@ -76,5 +76,5 @@
 - Improve error handling and user feedback.
 - Enhance the UI/UX based on user feedback and usability testing.
 
-All features mentioned above have been successfully implemented in the application. Feel free to explore the deployed application [here](https://totality-frontend-challenges-lime.vercel.app/).
+All features mentioned above have been successfully implemented in the application. Feel free to explore the deployed application [Project-Link](https://totality-frontend-challenges-lime.vercel.app/).
 
