@@ -1,5 +1,6 @@
 # Totality Frontend Challenge
-![homelyhub](app-img.png "homelyhub")
+![homelyhub](![image](https://github.com/user-attachments/assets/57957474-9673-4db3-bda6-12d250a38a3c)
+)
 
 This repository contains the solution for the Totality Frontend Challenge, which aims to develop a property rental platform with essential features using React. The challenge includes implementing property listings, booking management, checkout process, and ensuring responsive design.
 
