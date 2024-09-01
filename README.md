@@ -1,13 +1,17 @@
 # Totality Frontend Challenge
-  ## UrbanValli
+  ## UrbanVilla
 )
 ![image](https://github.com/user-attachments/assets/60306f1a-4c79-4e01-877e-dffde4421949)
+![image](https://github.com/user-attachments/assets/211f6c47-187e-4f12-b1e9-8d13b3c37b95)
+![image](https://github.com/user-attachments/assets/3274b7ad-568e-4ce2-8081-3ae92e29753d)
+
+
 
 
 This repository contains the solution for the Totality Frontend Challenge, which aims to develop a property rental platform with essential features using React. The challenge includes implementing property listings, booking management, checkout process, and ensuring responsive design.
 
 ## UrbanValli
-![ManagementSystem](ManagementSystem.png "ManagementSystem")
+
 ![image](https://github.com/user-attachments/assets/cb0f3b5f-9be0-4f55-9e18-c3ab1b25f243)
 
 
@@ -16,20 +20,16 @@ This repository contains the solution for the Totality Frontend Challenge, which
 
 - **[React](https://reactjs.org/)**: A JavaScript library for building user interfaces.
 - **[Next.js](https://nextjs.org/)**: A React framework for server-side rendering and routing.
-- **[TypeScript](https://www.typescriptlang.org/)**: A typed superset of JavaScript for improved code quality and maintainability.
 - **[MongoDB](https://www.mongodb.com/)**: A NoSQL database for storing property and user data.
 - **[Node.js](https://nodejs.org/)** + **[Express](https://expressjs.com/)**: A backend framework for implementing server-side logic and APIs.
 - **[Nodemailer](https://nodemailer.com/)**: A module for sending emails from Node.js, used for sending booking confirmation emails.
 - **[Tailwind CSS](https://tailwindcss.com/)**: A utility-first CSS framework for styling the frontend components.
-- **[Clerk.js](https://clerk.dev/)**: A Next.js integration for user authentication and identity management.
 - **[Radix UI](https://radix-ui.com/)**: UI components library including dialogs, icons, select components, and sliders.
 - **[Lucid React](https://lucid-dream.dev/)**: UI library icons.
 - **[Framer Motion](https://www.framer.com/motion/)**: A React animation library for creating interactive UI.
 - **[Mongoose](https://mongoosejs.com/)**: MongoDB object modeling for Node.js, used for managing MongoDB data models.
 - **[clsx](https://github.com/lukeed/clsx)**: Utility for conditionally joining classNames together.
 - **[Tailwind CSS Animate](https://github.com/bentzibentz/tailwindcss-animatecss)**: Tailwind CSS plugin for adding animation utilities.
-- **[shadcn](https://ui.shadcn.com/)**: A UI library for adding components.
-- **[aceternity](https://aceternity.io/)**: A UI library for enhancing component accessibility and usability.
 
 
 
@@ -52,20 +52,12 @@ This repository contains the solution for the Totality Frontend Challenge, which
 4. **Responsive Design**:
    - Ensure seamless functionality and optimal viewing experience across desktop and mobile devices. Further improvements can be made to enhance viewing on various screen sizes.
 
-5. **User Authentication**:
-   - Implement user registration and login functionalities with Clerk authentication.
-   - Display the user's name and avatar when logged in.
-   - Protect routes to prevent unauthorized access and provide a nice toast alert message when the user is not signed in.
-
 
 
 ## Additional Notes
 
-- **Deployment**: The application is deployed on [Vercel](https://vercel.com/) at [homely hub](https://totality-frontend-challenge-mu.vercel.app/). A CI/CD pipeline is connected for a better development environment.
-- **MongoDB**: MongoDB Atlas serves as the cloud database service for storing property and user data.
+- **Deployment**: The application is deployed on [Vercel](https://vercel.com/) at [UrbanVilla](https://totality-frontend-challenges-lime.vercel.app/properties). A CI/CD pipeline is connected for a better development environment.
 - **Next.js**: The utilization of Next.js for server-side rendering enhances performance and SEO, resulting in a smoother user experience.
-- **TypeScript**: Integration of TypeScript ensures type safety, reducing bugs and enhancing code maintainability.
-- **Nodemailer**: Nodemailer is configured to send booking confirmation emails to users upon successful booking.
 
 ## How to Run Locally
 
@@ -83,5 +75,5 @@ This repository contains the solution for the Totality Frontend Challenge, which
 - Improve error handling and user feedback.
 - Enhance the UI/UX based on user feedback and usability testing.
 
-All features mentioned above have been successfully implemented in the application. Feel free to explore the deployed application [here](https://totality-frontend-challenge-mu.vercel.app/), and the codebase on [GitHub](https://github.com/jyzib/totality-frontend-challenge).
+All features mentioned above have been successfully implemented in the application. Feel free to explore the deployed application [here](https://totality-frontend-challenges-lime.vercel.app/properties), and the codebase on [GitHub](https://totality-frontend-challenges-lime.vercel.app/properties).
 
