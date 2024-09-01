@@ -1,6 +1,6 @@
 # Totality Frontend Challenge
   ## UrbanVilla
-)
+
 ![image](https://github.com/user-attachments/assets/60306f1a-4c79-4e01-877e-dffde4421949)
 ![image](https://github.com/user-attachments/assets/211f6c47-187e-4f12-b1e9-8d13b3c37b95)
 ![image](https://github.com/user-attachments/assets/3274b7ad-568e-4ce2-8081-3ae92e29753d)
@@ -10,7 +10,7 @@
 
 This repository contains the solution for the Totality Frontend Challenge, which aims to develop a property rental platform with essential features using React. The challenge includes implementing property listings, booking management, checkout process, and ensuring responsive design.
 
-## UrbanValli
+## UrbanVilla
 
 ![image](https://github.com/user-attachments/assets/cb0f3b5f-9be0-4f55-9e18-c3ab1b25f243)
 
@@ -56,7 +56,7 @@ This repository contains the solution for the Totality Frontend Challenge, which
 
 ## Additional Notes
 
-- **Deployment**: The application is deployed on [Vercel](https://vercel.com/) at [UrbanVilla](https://totality-frontend-challenges-lime.vercel.app/properties). A CI/CD pipeline is connected for a better development environment.
+- **Deployment**: The application is deployed on [Vercel](https://vercel.com/) at [UrbanVilla](https://totality-frontend-challenges-lime.vercel.app/). A CI/CD pipeline is connected for a better development environment.
 - **Next.js**: The utilization of Next.js for server-side rendering enhances performance and SEO, resulting in a smoother user experience.
 
 ## How to Run Locally
@@ -75,5 +75,5 @@ This repository contains the solution for the Totality Frontend Challenge, which
 - Improve error handling and user feedback.
 - Enhance the UI/UX based on user feedback and usability testing.
 
-All features mentioned above have been successfully implemented in the application. Feel free to explore the deployed application [here](https://totality-frontend-challenges-lime.vercel.app/properties), and the codebase on [GitHub](https://totality-frontend-challenges-lime.vercel.app/properties).
+All features mentioned above have been successfully implemented in the application. Feel free to explore the deployed application [here](https://totality-frontend-challenges-lime.vercel.app/).
 
